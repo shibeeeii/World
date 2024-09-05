@@ -1,0 +1,8 @@
+body{
+    background-image: url(./media/earth-space-stars-green-solaris-water-sea-4400x2475-2051.jpg);
+}
+.crd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
